@@ -1,4 +1,4 @@
-html, body, iframe#sandboxFrame, .full_size {
+html, body, iframe, .full_size {
   margin: 0;
   padding: 0;
   height: 100%;
